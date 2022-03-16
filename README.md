@@ -20,7 +20,7 @@ certain visual patterns of oral cancer just like any human expert. On both inter
 
 **Dataset**
 
-Extract the dataset and model by [https://drive.google.com/drive/folders/1uL3LTG60HsMNkctTbbkNi9aulXmUMP5z?usp=sharing](url)
+Extract the dataset and model from [https://drive.google.com/drive/folders/1uL3LTG60HsMNkctTbbkNi9aulXmUMP5z?usp=sharing](url)
 
 **Technology Used:**
 
