@@ -18,6 +18,9 @@ The concept of transfer learning is founded on the premise that when knowledge o
 A deep learning system was built using photographic images for entirely automated oral cancer detection when it was assumed that deep neural networks could quickly identify 
 certain visual patterns of oral cancer just like any human expert. On both internal and external validation datasets, we calculated algorithmic performance and compared the model to the average result of seven oral cancer specialists on a clinical validation dataset. Our findings demonstrated that oral cancer lesions have discriminative visual patterns that can be discovered using a deep learning algorithm. The potential to identify oral cancer at the point of care in a less expensive, non-invasive, and effective method has substantial clinical implications. 
 
+**Dataset**
+
+Extract the dataset and model by [https://drive.google.com/drive/folders/1uL3LTG60HsMNkctTbbkNi9aulXmUMP5z?usp=sharing](url)
 
 **Technology Used:**
 
