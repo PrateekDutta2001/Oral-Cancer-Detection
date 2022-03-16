@@ -26,3 +26,39 @@ Deep Learning
 Transfer Learning
 
 Python [programming language]
+
+**Reference**
+
+[1] Oral cancer, https://en.wikipedia.org/wiki/Oral_cancer 
+
+[2] Oral Leukplakia LM328 “https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM65276” 
+
+[3] Oral cancer, https://www.webmd.com/oral-health/guide /oral-cancer#1
+
+[4] Head-and-Neck-squamous-cellcarcinoma, https://en.wikipedia.org/wiki/Head_and_neck_squamous_cell_carcinom, Wikipedia(2018).
+
+[5] der Waal I, de Bree R, Brakenhoff R, Coebegh JW. Early diagnosis in primary oral cancer: is it possible? Med Oral Patol Oral Cir Bucal 2011;16:e300–5. 
+
+[6] Kundel HL. History of research in medical image perception. J Am Coll Radiol 2006;3:402–8. 
+
+[7] Chi AC, Day TA, Neville BW. Oral cavity and oropharyngeal squamous cell carcinoma—An update. CA Cancer J Clin 2015;65:401–21. 
+
+[8] Bagan J, Sarrion G, Jimenez Y. Oral cancer: clinical features. Oral Oncol 2010;46:414–7. 
+
+[9] Moy E, Garcia MC, Bastian B, Rossen LM, Ingram DD, Faul M, et al. Leading causes of death in nonmetropolitan and metropolitan areas - United States, 1999-2014. MMWR Surveill Summ 2017;66:1–8. 
+
+[10] Pagedar NA, Kahl AR, Tasche KK, Seaman AT, Christensen AJ, Howren MB, et al. Incidence trends for upper aerodigestive tract cancers in rural United States counties. Head Neck 2019;41:2619–24.
+
+[11] Gigliotti J, Madathil S, Makhoul N. Delays in oral cavity cancer. Int J Oral Maxillofac Surg 2019;48:1131–7. 
+
+[12] Liao DZ, Schlecht NF, Rosenblatt G, Kinkhabwala CM, Leonard JA, Ference RS, et al. Association of delayed time to treatment initiation with overall survival and recurrence among patients with head and neck squamous cell carcinoma in an underserved urban population. JAMA Otolaryngol - Head Neck Surg 2019;145:1001–9. 
+
+[13] LeCun Y, Bengio Y, Hinton G. Deep learning. Nature 2015;521:436–44. 
+
+[14] Esteva A, Kuprel B, Novoa RA, Ko J, Swetter SM, Blau HM, et al. Dermatologist level classification of skin cancer with deep neural networks. Nature 2017;542:115–8.
+
+[15] Gulshan V, Peng L, Coram M, Stumpe MC, Wu D, Narayanaswamy A, et al. Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs. JAMA J Am Med Assoc 2016;316:2402– 10. 
+
+[16] Gurovich Y, Hanani Y, Bar O, Nadav G, Fleischer N, Gelbman D, et al. Identifying facial phenotypes of genetic disorders using deep learning. Nat Med 2019;25:60– 4. 
+
+[17] Pan SJ, Yang Q. A survey on transfer learning. IEEE Trans Knowl Data Eng. 2010;22(10):1345–59.
